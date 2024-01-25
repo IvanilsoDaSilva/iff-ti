@@ -14,7 +14,7 @@
 
 <h2 align="right">1.1. INTRODUCTION 📰</h2>
 
-Welcome to my repository dedicated to the projects developed during the academic journey in college! This space was created to store and share the various works that reflect my learning, creativity, and dedication throughout the course.
+Welcome to my repository dedicated to the projects developed during the academic journey! This space was created to store and share the various works that reflect my learning, creativity, and dedication throughout the course.
 
 <h2 align="right">1.2. DESCRIPTION 📝</h2>
 
